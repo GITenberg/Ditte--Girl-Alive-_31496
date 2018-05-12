@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2530
     wikipedia: http://en.wikipedia.org/wiki/Martin_Andersen_Nexø
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31496#Ditte--Girl-Alive-
 gutenberg_issued: '2010-03-04'
 gutenberg_type: Text
 identifiers:
