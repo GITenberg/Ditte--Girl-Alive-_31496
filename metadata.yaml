@@ -1,0 +1,33 @@
+_repo: Ditte--Girl-Alive-_31496
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Andersen Nexø, Martin
+    aliases:
+    - Andersen, Martin
+    - Nexø, Martin Andersen
+    - Nexo, Martin Andersen
+    - Nekse, Martin Andersen
+    birthdate: 1869
+    deathdate: 1954
+    gutenberg_agent_id: '2530'
+    url: http://www.gutenberg.org/2009/agents/2530
+    wikipedia: http://en.wikipedia.org/wiki/Martin_Andersen_Nexø
+description: ''
+gutenberg_issued: '2010-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31496'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Denmark -- Fiction'
+- !lcsh 'Danish fiction -- Translations into English'
+- !lcc 'PT'
+title: 'Ditte: Girl Alive!'
+url: http://www.gutenberg.org/ebooks/31496
